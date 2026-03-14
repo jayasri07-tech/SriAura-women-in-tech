@@ -98,7 +98,7 @@ DBMS/
 
 ## 🚀 Live Demo
 
-🔗 [View Live on GitHub Pages](https://yourusername.github.io/SriAura/sriaura.html)
+🔗 [View Live on GitHub Pages](https://github.com/jayasri07-tech/SriAura-women-in-tech)
 
 ---
 
